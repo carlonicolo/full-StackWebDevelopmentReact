@@ -1,1 +1,1 @@
-# full-StackWebDevelopmentReact
+# Full-Stack Web Development with React Specialization
